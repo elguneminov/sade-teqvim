@@ -2,5 +2,5 @@
 
 
 <p>
-<img src="teqvim.png" width="400">
+<img src="https://github.com/elguneminov/sade-teqvim/blob/main/teqvim.PNG" width="400">
 </p>
